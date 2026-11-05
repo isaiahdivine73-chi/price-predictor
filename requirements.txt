@@ -1,0 +1,5 @@
+streamlit
+numpy
+pandas
+scikit-learn
+xgboost-cpu==3.4.1
