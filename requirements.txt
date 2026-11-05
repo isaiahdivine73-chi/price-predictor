@@ -1,5 +1,4 @@
 streamlit
-uvicorn
 numpy
 pandas
 scikit-learn
